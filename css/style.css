@@ -254,8 +254,10 @@ main .photos .container .top-content {
     width: 100%;
     margin: 0 auto 20px;
     background-color: #044f45;
+    border-radius: 30px;
     height: 60px;
     display: flex;
+    justify-content: center;
     align-items: center;
     box-shadow: 3px 3px 5px lightgray;
 }
